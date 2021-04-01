@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Khanh</h1>
 <h3 align="center">I'm a Cybersecurity graduate who like to code</h3>
 
-- 🌱 I’m currently learning: **Python for Automation**
+- 🌱 I’m currently learning: **Web Developing**
 
 - 📫 How to reach me: **vtk.khanhvu@gmail.com**
 
